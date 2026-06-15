@@ -1,4 +1,4 @@
-# 📝 Doozy - Smart To-Do List Application
+# 📝 Doozy - ToDo List using MERN Stack
 
 Doozy is a modern task management application that helps users organize their daily activities, track progress, and stay productive. It provides an intuitive interface for creating, managing, and completing tasks efficiently.
 
